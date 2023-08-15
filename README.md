@@ -6,4 +6,4 @@ _v1.0.0_
 
 https://pan.quark.cn/s/ceabd204eb97
 
-download this 
+Download this folder and replace the existing "data" folder to use.
