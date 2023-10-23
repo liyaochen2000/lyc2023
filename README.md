@@ -7,9 +7,13 @@ _v1.1.0_
 https://pan.quark.cn/s/d642963f1687
 
 This is the latest version. To update, please delete all previous content. 
+
 New features are as follows：
+
  Check gene structure of ZH8015 genome;
+ 
  Compare gene express level within 5 different issues;
+ 
  Extraxt antisense sequence of genes.
  
 
